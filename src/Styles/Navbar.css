@@ -1,0 +1,9 @@
+.NavBar {
+  background-color: grey;
+  padding: 10px;
+  text-align: center;
+}
+
+.social-icons {
+  display: inline-block;
+}
